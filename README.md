@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ukiplezet
 - 👀 I’m interested in becoming a FullStackDev  
-- 🌱 I’m currently learning how to use git, HTML, CSS & JavaScript
+- 🌱 I’m currently learning Python, Django, Docker, Elasticsearch, TypeScript
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 You can reach me here...
 
