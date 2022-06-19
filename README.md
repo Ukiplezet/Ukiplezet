@@ -5,8 +5,9 @@
 
 - 🌱 I continue to learn and develop my skills in **React.jS, Node.JS, Python, Django & More.**
 - 🌱 I'm currently strengthening my abilities in:
+<span>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <p>&amp;</p> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40"/> </a> 
-  
+  </span>
 - 📫 You can reach me in **Omridolberg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
